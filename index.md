@@ -57,7 +57,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endif %}
 
 <div class="alert alert-info" role="alert">
-  <p align="center">Please register for this event on <a href="https://events.hifis.net/event/272/" class="alert-link">events.hifis.net/event/272/</a>.</p>
+  <p align="center">Please register for this event at <a href="https://events.hifis.net/event/272/" class="alert-link">HIFIS - Helmholtz Events</a>.</p>
 </div>
 
 
